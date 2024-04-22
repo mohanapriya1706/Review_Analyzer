@@ -46,4 +46,4 @@ To run this app locally, follow these steps:
 
 ## Authors
 - [Mohana Priya N](https://www.linkedin.com/in/mohanapriya1706/) 👩‍💻
-- [Karthikeyan K](https://www.linkedin.com/in/kkarthick-k/) 👨‍💻
+
